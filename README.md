@@ -1,6 +1,6 @@
 **Política Privacidade**
 
-A sua privacidade é importante para nós. É política do aplicativo respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site Calculadora Cebraspe (CESPE), e outros sites que possuímos e operamos.
+A sua privacidade é importante para nós. É política do aplicativo respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site, e outros sites que possuímos e operamos.
 
 Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando e como será usado.
 
@@ -16,11 +16,11 @@ O uso continuado de nosso site será considerado como aceitação de nossas prá
 
 Compromisso do Usuário
 
-O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o Calculadora Cebraspe (CESPE) oferece no site e com caráter enunciativo, mas não limitativo:
+O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o aplicativo oferece no site e com caráter enunciativo, mas não limitativo:
 
     A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;
     B) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, betano ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;
-    C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Calculadora Cebraspe (CESPE), de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
+    C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do aplicativo, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
 
 Mais informações
 
